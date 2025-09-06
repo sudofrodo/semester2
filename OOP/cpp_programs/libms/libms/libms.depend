@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1752768239 source:/home/athar/semester2/OOP/libms/libms/main.cpp
+	"headers.h"
+
+1752768289 /home/athar/semester2/OOP/libms/libms/headers.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+
