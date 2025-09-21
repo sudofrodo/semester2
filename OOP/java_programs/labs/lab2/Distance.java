@@ -1,6 +1,6 @@
 public class Distance{
-  public int feet;
-  public double inches;
+  private int feet;
+  private double inches;
   public Distance() {
     feet = 0;
     inches = 0;

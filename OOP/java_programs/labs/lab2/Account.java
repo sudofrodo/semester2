@@ -1,7 +1,7 @@
-public class Account{
-  public int balance;
-  public String name;
-  public String accountType;
+  public class Account{
+  private int balance;
+  private String name;
+  private Sring accountType;
   public Account(){
     balance = 0;
   };

@@ -1,0 +1,5 @@
+c => true , d => false;
+Jeniffer and Teja are not friends , There is pollution in New Jersey. 2 + 1 = 4;
+p ^ q , p ^ `q , `p ^ `q , p | q , p (exclusive or) q , p | q ^ `q | p ; p -> q;
+Sharks have not been spotted near the shore. b) Swimming at new jersey shore is allowed and sharks have been spotted near the shore. c) Swimming at the New Jersey shore is not allowed or sharks have been spotted near the shore. d) Swimming at the new Jersey shore is allowed so sharks have not been spotted near the shore. e) Sharks have not been spotted near the shore so swimming at new jersey shore is allowed . f) Swimming at new jersey shore is not allowed so sharks have not been spotted near the shore. g) h) Swimming at the new Jersey shore is not allowed and swimming at the new jersey shore is allowed or shark have not been spotted near the shore.;
+
