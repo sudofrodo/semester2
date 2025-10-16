@@ -5,7 +5,7 @@ public class Order{
   private double pricePerUnit;
   private static int totalOrders;
   private static double totalRevenue;
-  
+
   public Order() {
   totalOrders++;
   totalRevenue += quantity * pricePerUnit;
@@ -42,4 +42,3 @@ public class Order{
     System.out.println("Total Revenue: " + Order.totalRevenue);
   }
 }
-
