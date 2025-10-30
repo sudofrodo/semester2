@@ -1,0 +1,23 @@
+<UML_Model name="GeometricShapeModel">
+  
+  <UML_AbstractClass name="GeometricObject">
+    <UML_Attribute name="color" type="String" visibility="private"/>
+    <UML_Attribute name="filled" type="Boolean" visibility="private"/>
+    <UML_Operation name="getArea" type="double" isAbstract="true" visibility="public"/>
+    <UML_Operation name="getPerimeter" type="double" isAbstract="true" visibility="public"/>
+  </UML_AbstractClass>
+
+  <UML_Class name="Triangle">
+    <UML_Attribute name="side1" type="Double" visibility="private"/>
+    <UML_Attribute name="side2" type="Double" visibility="private"/>
+    <UML_Attribute name="side3" type="Double" visibility="private"/>
+    
+    <UML_Generalization name="InheritanceToGeometricObject"
+      child="Triangle"
+      parent="GeometricObject"/>
+      
+    <UML_Operation name="getArea" type="double" visibility="public"/>
+    <UML_Operation name="getPerimeter" type="double" visibility="public"/>
+    </UML_Class>
+  
+</UML_Model>

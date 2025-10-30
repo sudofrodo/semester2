@@ -13,7 +13,7 @@ public class StaticNonStaticBlocks
         check = c;
         System.out.println("inside construtor.");
     }
-    public StaticNonStaticBlocks(){};
+ //   public StaticNonStaticBlocks(){};
    
     public static void ping()
     {
@@ -25,12 +25,15 @@ public class StaticNonStaticBlocks
     }
     public static void main(String args[])
     {
-        System.out.println("inside main");   
-        StaticNonStaticBlocks s1 = new StaticNonStaticBlocks(5);
-        System.out.println(s1.getCheckt());
+        System.out.println("inside main");
+       StaticNonStaticBlocks s1 = new StaticNonStaticBlocks(5);
+       System.out.println("second object");
+       StaticNonStaticBlocks s2 = new StaticNonStaticBlocks(6);
+       System.out.println(s1.getCheckt());
     }
     static {
         System.out.println("static block");
+        check++;
     }
     static {
         System.out.println("second static block");
@@ -38,8 +41,8 @@ public class StaticNonStaticBlocks
 
 }
 /* order of execution
-    1-Static blocks in order of lines; (static blocks dont care about instantiaton)
-    2-if main function is made , then it will be called , which is actually static (irrespective of instantiation)
+    1-Static blocks in order of lines; (static blocks dont care about instantiaton , tho they care about main)
+    2-main function is made , then it will be called , which is actually static (irrespective of instantiation)
     3-if object is made then , non static blocks are executed first , even before constructor. (they are not executed without instantiation)
     4-then comes the constructor.
     5-all though in all frameworks code execute line by line;

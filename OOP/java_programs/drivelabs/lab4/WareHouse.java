@@ -68,9 +68,7 @@ public class WareHouse{
        // merging the arrays;
         int mergedArraySize = cleanedArr1.length + cleanedArr2.length;
         int[] mergedArray = new int[mergedArraySize];
-        for(int i = 0 ; i < cleanedArr1.length;i++){ 
-                mergedArray[i] = cleanedArr1[i];
-        }
+        System.arraycopy(cleanedArr1, 0, mergedArray, 0, cleanedArr1.length);
         int nextIdx = cleanedArr1.length; //the next element in merged array would start from index equal to size of first merged array.
         int cleanIdx = 0;
         for(int i = nextIdx ; i < mergedArraySize;i++){ 
