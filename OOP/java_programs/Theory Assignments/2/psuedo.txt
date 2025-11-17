@@ -1,0 +1,11 @@
+get real profit ratio:
+this function will recieve a certain amount of money.
+now for same money , it will make accounts in each country.
+calculate earnings of every country by overloaded calculateEarning function.
+return the country with highest earning
+
+
+
+overloaded calculate earning function:
+take capital tax for given country;
+return the value after adjusting the inflation.
