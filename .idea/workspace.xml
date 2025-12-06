@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e761fe26-4f56-4791-9afd-730230691360" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IATManual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/commentedCode.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/ConsoleUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/ConsoleUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/GamePlay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/GamePlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Parchi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Parchi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/SetupGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenCLIVersion/SetupGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/java/game/ButtonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/java/game/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/java/game/SceneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/resources/game/CityPoints.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/resources/game/GameRules.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/Parchian/src/main/resources/game/Main.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/src/main/java/test/demo/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/src/main/java/test/demo/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/src/main/java/test/demo/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/java_programs/parchian/singleScreenGUIVersion/demo/src/main/resources/test/demo/hello-view.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="36QxuCZl8NdTMrWg0ogs9kKiOtg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e761fe26-4f56-4791-9afd-730230691360" name="Changes" comment="" />
+      <created>1764952817973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764952817973</updated>
+      <workItem from="1764952821617" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
