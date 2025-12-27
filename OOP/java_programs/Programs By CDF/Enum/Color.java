@@ -4,6 +4,6 @@ enum Color{
         System.out.println("This is color : " + this);
     }
     private Color(){
-        //System.out.println("Constructor called for this color: " + this);
+        System.out.println("Constructor called for this color: " + this);
     }
 }

@@ -3,7 +3,7 @@ public class Main{
     private int b;
     protected int c;
     public Main(){
-        System.out.println("I am Inheritance Constructor");
+        System.out.println("I am MAIN Constructor");
     };
     public Main(int a, int b){
         this.a = a;

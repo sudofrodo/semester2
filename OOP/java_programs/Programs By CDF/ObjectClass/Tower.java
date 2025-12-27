@@ -14,7 +14,16 @@ public class Tower{
 
     @Override
     public boolean equals(Object obj){
+        if(obj instanceof Tower){
         Tower t = (Tower) obj;
-        return (this.name.equals(t.name) && this.levels == t.levels);   
+        return (this.name.equals(t.name) && this.levels == t.levels);
+    } else {
+        return false;
     }
+    }
+    @Override
+    public int hashCode(){
+        return java.util.Objects.hash(levels,name);
+    }
+    
 }
