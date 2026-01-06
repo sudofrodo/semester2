@@ -23,6 +23,11 @@ public class StaticNonStaticBlocks
     {
         return check;
     }
+    
+    static {
+        System.out.println("static block");
+      //  check++; //will create an error.
+    }
     public static void main(String args[])
     {
        System.out.println("inside main");
@@ -31,10 +36,7 @@ public class StaticNonStaticBlocks
        StaticNonStaticBlocks s2 = new StaticNonStaticBlocks(6);
        System.out.println(s1.getCheckt());
     }
-    static {
-        System.out.println("static block");
-      //  check++; //will create an error.
-    }
+    
     static {
         System.out.println("second static block");
     }
